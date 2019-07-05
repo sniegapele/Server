@@ -1,0 +1,7 @@
+C:\Users\Bendras\Desktop\Server\bin\Debug\Server.exe.config
+C:\Users\Bendras\Desktop\Server\bin\Debug\Server.exe
+C:\Users\Bendras\Desktop\Server\bin\Debug\Server.pdb
+C:\Users\Bendras\Desktop\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Bendras\Desktop\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Bendras\Desktop\Server\obj\Debug\Server.exe
+C:\Users\Bendras\Desktop\Server\obj\Debug\Server.pdb
