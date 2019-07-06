@@ -46,9 +46,9 @@ namespace Server
             isRunning = true;
             while(isRunning)
             {
-                Console.WriteLine("Waiting for connection...");
+                //Console.WriteLine("Waiting for connection...");
                 Socket client = listener.Accept();
-                Console.WriteLine("Connected");
+                //Console.WriteLine("Connected");
                 HandleClient(client);
                 client.Close();
             }
