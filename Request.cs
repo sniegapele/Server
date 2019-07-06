@@ -12,7 +12,7 @@ namespace Server
         public String Type { get { return type; } }
         private String url;
         public String Url { get { return url; } }
-        private String host { get; }
+        private String host;
 
         private Request(String type, String url, String host)
         {
